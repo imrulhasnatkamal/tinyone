@@ -235,4 +235,10 @@ footer {
     color: #ffffff;
     text-decoration: none;
 }
+
+.copy{
+    margin-top: 40px;
+    font-size: 18px;
+    color: white;
+}
 /* footer start  */
